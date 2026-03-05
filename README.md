@@ -20,7 +20,7 @@
 <p>
   <img src="https://img.shields.io/badge/RTX_4090-101010?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA RTX 4090" />
   <img src="https://img.shields.io/badge/Ryzen_7_7800X3D-101010?style=for-the-badge&logo=amd&logoColor=ED1C24" alt="AMD Ryzen 7800X3D" />
-  <img src="https://img.shields.io/badge/iPhone_16_Pro-101010?style=for-the-badge&logo=apple&logoColor=white" alt="iPhone 17 Pro Max" />
+  <img src="https://img.shields.io/badge/iPhone_17_Pro_Max-101010?style=for-the-badge&logo=apple&logoColor=white" alt="iPhone 17 Pro Max" />
 </p>
 
 <!-- Software Stack -->
