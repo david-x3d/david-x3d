@@ -7,7 +7,7 @@
 
 <!-- Tagline -->
 <p>
-  <code>TECH ENTHUSIAST</code> • <code>SYSTEM BREAKER</code> • <code>RED BULL</code>
+  <code>TECH ENTHUSIAST</code> • <code>SYSTEM BREAKER</code> • <code>RED BULL ENJOYER</code>
 </p>
 
 <!-- Divider -->
