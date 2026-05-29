@@ -57,10 +57,12 @@ My projects usually sit where power-user workflows meet good UI: terminal screen
 
 ## GitHub Signal
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=david-x3d&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=David's%20GitHub%20Signal" alt="David's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-x3d&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="David's top languages" />
-</div>
+| Signal | Details |
+| --- | --- |
+| Main lane | TypeScript CLIs, TUI tools, and React/Vite interfaces |
+| Public projects | `terminal-shot`, `qrawisp`, `ios-cert-checker`, KDE Plasma theme work |
+| Build style | Local-first, privacy-minded, documented, cross-platform where it matters |
+| Desktop bias | Linux, KDE Plasma, sharp dark UI, practical automation |
 
 ## Find Me
 
