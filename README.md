@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/UniFi-101010?style=for-the-badge&logo=ubiquiti&logoColor=0559C9" alt="UniFi" />
   <img src="https://img.shields.io/badge/Mullvad_VPN-101010?style=for-the-badge&logo=mullvad&logoColor=FF4500" alt="Mullvad VPN" />
   <img src="https://img.shields.io/badge/NextDNS-101010?style=for-the-badge&logo=nextdns&logoColor=24B1E3" alt="NextDNS" />
-</
+</p>
 <br><br>
 
 <!-- Footer Divider -->
