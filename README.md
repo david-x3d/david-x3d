@@ -5,21 +5,14 @@
 <h1 align="center">David</h1>
 
 <p align="center">
-  Developer from Germany, NRW. I build practical TypeScript tools, terminal-first utilities, clean interfaces, and Linux desktop experiments.
+  Developer from Germany, NRW.
 </p>
 
 <p align="center">
   <a href="https://github.com/david-x3d"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-david--x3d-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/david-x3d?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Public%20work-TypeScript%20%2B%20Linux-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=67e8f9"></a>
+  <a href="https://github.com/david-x3d?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Public%20work-Projects-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=67e8f9"></a>
   <a href="https://github.com/david-x3d?tab=followers"><img alt="Follow" src="https://img.shields.io/github/followers/david-x3d?style=for-the-badge&logo=github&label=Follow&labelColor=111827&color=c084fc"></a>
 </p>
-
-## What I Build
-
-- Small CLI tools that make confusing developer workflows easier to understand.
-- Terminal utilities with clean output, sensible defaults, and local-first behavior.
-- TypeScript projects that prioritize practical UX over framework noise.
-- KDE Plasma and Linux desktop customizations with a polished glass-style look.
 
 ## Featured Work
 
@@ -42,18 +35,4 @@
   <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE%20Plasma-0f172a?style=for-the-badge&logo=kde&logoColor=1d99f3">
   <img alt="Shell" src="https://img.shields.io/badge/Shell-0f172a?style=for-the-badge&logo=gnubash&logoColor=4eaa25">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088ff">
-</p>
-
-## Current Focus
-
-- Turning small CLI ideas into reliable, installable tools.
-- Keeping developer workflows local, transparent, and easy to debug.
-- Building interfaces that feel sharp without adding unnecessary complexity.
-- Tweaking Linux desktops until they feel personal.
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" alt="David x3d GitHub stats" src="https://github-readme-stats.vercel.app/api?username=david-x3d&show_icons=true&hide_border=true&theme=transparent&title_color=67e8f9&text_color=cbd5e1&icon_color=c084fc&bg_color=00000000">
-  <img height="165" alt="David x3d top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-x3d&layout=compact&hide_border=true&theme=transparent&title_color=67e8f9&text_color=cbd5e1&bg_color=00000000">
 </p>

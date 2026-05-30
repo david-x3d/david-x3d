@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">David x3d GitHub profile banner</title>
-  <desc id="desc">A dark glass-style developer banner for David, focused on TypeScript CLI tools, terminal utilities, and KDE Plasma customization.</desc>
+  <desc id="desc">A dark glass-style developer banner for David, focused on CLI tools, terminal utilities, and KDE Plasma customization.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#030712"/>
@@ -63,12 +63,12 @@
   <g transform="translate(96 95)">
     <text class="eyebrow" x="0" y="0">GITHUB.COM/DAVID-X3D</text>
     <text class="title" x="0" y="88">David</text>
-    <text class="subtitle" x="4" y="134">TypeScript tools, terminal UX, Linux customization.</text>
+    <text class="subtitle" x="4" y="134">Terminal tools, clean UX, Linux customization.</text>
     <text class="body" x="4" y="173">Practical software with clean defaults and no extra noise.</text>
 
     <g transform="translate(4 210)">
       <rect x="0" y="0" width="118" height="36" rx="18" fill="#0EA5E9" fill-opacity="0.18" stroke="#7DD3FC" stroke-opacity="0.52"/>
-      <text class="chip" x="20" y="23">TypeScript</text>
+      <text class="chip" x="32" y="23">Tools</text>
 
       <rect x="136" y="0" width="82" height="36" rx="18" fill="#22C55E" fill-opacity="0.14" stroke="#86EFAC" stroke-opacity="0.48"/>
       <text class="chip" x="160" y="23">CLI</text>
@@ -87,7 +87,7 @@
     <circle cx="53" cy="30" r="6" fill="#FBBF24"/>
     <circle cx="75" cy="30" r="6" fill="#34D399"/>
 
-    <text class="muted" x="28" y="76">$ profile --focus</text>
+    <text class="muted" x="28" y="76">$ profile --projects</text>
     <text class="mono" x="28" y="106">terminal-shot</text>
     <text class="mono" x="28" y="135">qrawisp</text>
     <text class="mono" x="28" y="164">ios-cert-checker</text>
