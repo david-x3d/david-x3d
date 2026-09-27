@@ -9,15 +9,47 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/david-x3d"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-david--x3d-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/david-x3d?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Public%20work-Projects-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=67e8f9"></a>
-  <a href="https://github.com/david-x3d?tab=followers"><img alt="Follow" src="https://img.shields.io/github/followers/david-x3d?style=for-the-badge&logo=github&label=Follow&labelColor=111827&color=c084fc"></a>
+  <a href="https://github.com/david-x3d">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-david--x3d-0f172a?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/david-x3d?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Public%20work-Projects-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=67e8f9">
+  </a>
+  <a href="https://github.com/david-x3d?tab=followers">
+    <img alt="Follow" src="https://img.shields.io/github/followers/david-x3d?style=for-the-badge&logo=github&label=Follow&labelColor=111827&color=c084fc">
+  </a>
 </p>
+
+## Featured — Nomi
+
+<p align="center">
+  <a href="https://github.com/david-x3d/nomi">
+    <img src="https://img.shields.io/badge/Nomi-Calorie%20Tracking%20for%20Android-0f172a?style=for-the-badge&logo=android&logoColor=3DDC84">
+  </a>
+</p>
+
+**Nomi** is my Android calorie and nutrition tracking app, built around fast food logging, accurate nutrition data, progress tracking, and a clean native UI.
+
+It includes researched food parsing, barcode and Open Food Facts support, meal grouping, favourites, backups, history, progress tracking, widgets, localisation, accessibility support, and an in-app update checker.
+
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-0f172a?style=flat-square&logo=android&logoColor=3DDC84">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0f172a?style=flat-square&logo=kotlin&logoColor=7F52FF">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=flat-square&logo=jetpackcompose&logoColor=4285F4">
+  <img alt="Latest Release" src="https://img.shields.io/github/v/release/david-x3d/nomi?style=flat-square&label=release&labelColor=0f172a">
+  <img alt="Tests" src="https://img.shields.io/badge/tests-616%20passing-0f172a?style=flat-square">
+</p>
+
+**[View Nomi →](https://github.com/david-x3d/nomi)**  
+**[Latest release →](https://github.com/david-x3d/nomi/releases/latest)**
+
+---
 
 ## Featured Work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [`nomi`](https://github.com/david-x3d/nomi) | Native Android calorie and nutrition tracker with researched food parsing, history, backups, progress tracking and more. | Kotlin, Jetpack Compose, Android |
 | [`terminal-shot`](https://github.com/david-x3d/terminal-shot) | Beautiful terminal screenshots from text, commands, and ANSI output. | TypeScript, CLI, ANSI |
 | [`qrawisp`](https://github.com/david-x3d/qrawisp) | Fast QR codes from your terminal. | TypeScript, terminal UX |
 | [`ios-cert-checker`](https://github.com/david-x3d/ios-cert-checker) | Privacy-first local CLI for inspecting iOS signing certificates and provisioning profiles. | TypeScript, iOS tooling |
@@ -27,6 +59,9 @@
 ## Toolbox
 
 <p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img alt="Android" src="https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=3DDC84">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6">
   <img alt="React" src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e">
