@@ -45,17 +45,6 @@ It includes researched food parsing, barcode and Open Food Facts support, meal g
 
 ---
 
-## Featured Work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [`nomi`](https://github.com/david-x3d/nomi) | Native Android calorie and nutrition tracker with researched food parsing, history, backups, progress tracking and more. | Kotlin, Jetpack Compose, Android |
-| [`terminal-shot`](https://github.com/david-x3d/terminal-shot) | Beautiful terminal screenshots from text, commands, and ANSI output. | TypeScript, CLI, ANSI |
-| [`qrawisp`](https://github.com/david-x3d/qrawisp) | Fast QR codes from your terminal. | TypeScript, terminal UX |
-| [`ios-cert-checker`](https://github.com/david-x3d/ios-cert-checker) | Privacy-first local CLI for inspecting iOS signing certificates and provisioning profiles. | TypeScript, iOS tooling |
-| [`works-on-my-machine`](https://github.com/david-x3d/works-on-my-machine) | A tiny CLI that explains why a repo works somewhere else but not locally. | TypeScript, diagnostics |
-| [`kde-plasma-liquid-glass-theme`](https://github.com/david-x3d/kde-plasma-liquid-glass-theme) | KDE Plasma Liquid Glass setup inspired by macOS Tahoe. | Shell, KDE, Linux |
-
 ## Toolbox
 
 <p>
